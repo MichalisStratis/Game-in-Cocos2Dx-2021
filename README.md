@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichalisStratis
 - 👀 I’m interested in Computer Science and Game Development
-- 🌱 I’m currently learning C++ and Unreal Engine 
+- 🌱 I’m currently working and learning more about C++ and Unreal Engine 
 
 <!---
 My name is Michalis Stratis, and I am a post-graduate student of MSc Video Game Development at Birmingham City University expected to graduate in September 2022. The subjects 
